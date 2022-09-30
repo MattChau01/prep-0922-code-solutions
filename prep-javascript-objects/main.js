@@ -8,9 +8,9 @@ var person = {
 console.log(person);
 
 const fullName = person.firstName + ' ' + person.lastName;
-console.log('The person\'s name is:', fullName);
+console.log('The person\'s name is: ', fullName);
 const currentJob = person.currentJob;
-console.log('The person\'s current job is:', currentJob);
+console.log('The person\'s current jobs is:', currentJob);
 const previousJob = person.previousJob;
 console.log('The person\'s previous job is:', previousJob);
 console.log(person);
